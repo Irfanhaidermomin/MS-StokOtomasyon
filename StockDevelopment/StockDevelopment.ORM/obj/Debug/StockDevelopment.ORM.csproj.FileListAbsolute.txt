@@ -1,0 +1,5 @@
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.ORM\bin\Debug\StockDevelopment.ORM.dll
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.ORM\bin\Debug\StockDevelopment.ORM.pdb
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.ORM\obj\Debug\StockDevelopment.ORM.dll
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.ORM\obj\Debug\StockDevelopment.ORM.pdb
+C:\Users\gunes\Documents\Visual Studio 2013\Projects\StockDevelopment\StockDevelopment.ORM\obj\Debug\StockDevelopment.ORM.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockDevelopment.WinForm.UI", "StockDevelopment.WinForm.UI\StockDevelopment.WinForm.UI.csproj", "{7AD1E702-E4BB-4C25-A6CC-2A8013AA9240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockDevelopment.ORM", "StockDevelopment.ORM\StockDevelopment.ORM.csproj", "{79BEB55E-EFDC-44C1-9BEC-1C8184016C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD1E702-E4BB-4C25-A6CC-2A8013AA9240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD1E702-E4BB-4C25-A6CC-2A8013AA9240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD1E702-E4BB-4C25-A6CC-2A8013AA9240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD1E702-E4BB-4C25-A6CC-2A8013AA9240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BEB55E-EFDC-44C1-9BEC-1C8184016C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BEB55E-EFDC-44C1-9BEC-1C8184016C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BEB55E-EFDC-44C1-9BEC-1C8184016C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BEB55E-EFDC-44C1-9BEC-1C8184016C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

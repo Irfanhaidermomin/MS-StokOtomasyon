@@ -1,0 +1,64 @@
+c:\users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\bin\Debug\StockDevelopment.WinForm.UI.exe.config
+c:\users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\bin\Debug\StockDevelopment.WinForm.UI.exe
+c:\users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\bin\Debug\StockDevelopment.WinForm.UI.pdb
+c:\users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.Properties.Resources.resources
+c:\users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.csproj.GenerateResource.Cache
+c:\users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.exe
+c:\users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.pdb
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.AnaForm.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.GirişForm.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.KullaniciEkle.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.Kullanicilar.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.csprojResolveAssemblyReference.cache
+C:\Users\gunes\Documents\Visual Studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.PersonelEkle.resources
+C:\Users\gunes\Documents\Visual Studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\bin\Debug\StockDevelopment.ORM.dll
+C:\Users\gunes\Documents\Visual Studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\bin\Debug\StockDevelopment.ORM.pdb
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SifremiUnuttum.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.Personeller.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.UrunEkle.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.Urunler.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.StokBilgi.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.AzalanÜrünler.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SatılanMal.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SatışEkranı.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.AlınanMal.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SiparişEdilecekListesi.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SiparişEdilenListesi.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.BorçEkle.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.BorçListesi.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.BorçluEkle.resources
+C:\Users\gunes\documents\visual studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.BorçluListesi.resources
+C:\Users\gunes\Documents\Visual Studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SiparisListesine_Ekle.resources
+C:\Users\gunes\Documents\Visual Studio 2013\Projects\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.DirectSiparişEkle.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\bin\Debug\StockDevelopment.WinForm.UI.exe.config
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.exe
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.pdb
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\bin\Debug\StockDevelopment.WinForm.UI.exe
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\bin\Debug\StockDevelopment.WinForm.UI.pdb
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\bin\Debug\StockDevelopment.ORM.dll
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\bin\Debug\StockDevelopment.ORM.pdb
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.csprojResolveAssemblyReference.cache
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.AlınanMal.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.AnaForm.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.AzalanÜrünler.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.BorçEkle.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.BorçListesi.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.BorçluEkle.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.BorçluListesi.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.GirişForm.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.KullaniciEkle.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.Kullanicilar.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.PersonelEkle.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.Personeller.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SatılanMal.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SatışEkranı.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SifremiUnuttum.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SiparisListesine_Ekle.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SiparişEdilecekListesi.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.SiparişEdilenListesi.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.DirectSiparişEkle.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.StokBilgi.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.UrunEkle.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.FORMS.Urunler.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.Properties.Resources.resources
+C:\Users\gunes\Desktop\StockDevelopment\StockDevelopment.WinForm.UI\obj\Debug\StockDevelopment.WinForm.UI.csproj.GenerateResource.Cache
